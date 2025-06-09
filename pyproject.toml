@@ -2,14 +2,14 @@
 name = "point-cloud-measure"
 version = "0.1.0"
 description = "GUI приложение для измерения ширины по облаку точек"
-authors = ["Акимов Павел <justgansecret@gmail.com"]
+authors = ["Акимов Павел <justgansecret@gmail.com"> ]
 license = "MIT"
 readme = "README.md"
 packages = [{include = "point_cloud_processor.py"}, {include = "visualizer.py"}, {include = "app.py"}]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.12"
-numpy = "^2.3.0"
+numpy = "^1.26.0"
 scipy = "^1.15.3"
 matplotlib = "^3.10.3"
 ezdxf = "^1.4.2"
