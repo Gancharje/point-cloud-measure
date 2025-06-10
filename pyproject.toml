@@ -2,7 +2,7 @@
 name = "point-cloud-measure"
 version = "0.1.0"
 description = "GUI приложение для измерения ширины по облаку точек"
-authors = ["Акимов Павел <justgansecret@gmail.com"> ]
+authors = ["Акимов Павел <justgansecret@gmail.com>" ]
 license = "MIT"
 readme = "README.md"
 packages = [{include = "point_cloud_processor.py"}, {include = "visualizer.py"}, {include = "app.py"}]
