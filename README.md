@@ -1,4 +1,4 @@
-![alt text](http://postimg.su/image/IfQ75TeV/sample.png)
+![alt text](https://i.postimg.cc/prJSVCbf/11111.png)
 
 # Измерение ширины облака точек
 
